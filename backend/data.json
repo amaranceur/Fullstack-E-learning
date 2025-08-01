@@ -1,0 +1,948 @@
+[
+{
+  "model": "admin.logentry",
+  "pk": 1,
+  "fields": {
+    "action_time": "2025-07-08T22:13:29.228Z",
+    "user": 1,
+    "content_type": 6,
+    "object_id": "1",
+    "object_repr": "amar",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Role\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 2,
+  "fields": {
+    "action_time": "2025-07-08T23:24:02.224Z",
+    "user": 1,
+    "content_type": 6,
+    "object_id": "2",
+    "object_repr": "amar2",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Role\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 3,
+  "fields": {
+    "action_time": "2025-07-10T22:37:27.019Z",
+    "user": 1,
+    "content_type": 13,
+    "object_id": "1",
+    "object_repr": "amar's Profile",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 4,
+  "fields": {
+    "action_time": "2025-07-10T22:37:34.010Z",
+    "user": 1,
+    "content_type": 13,
+    "object_id": "2",
+    "object_repr": "amar2's Profile",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 5,
+  "fields": {
+    "action_time": "2025-07-12T20:24:27.627Z",
+    "user": 1,
+    "content_type": 6,
+    "object_id": "4",
+    "object_repr": "testuser123",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Password\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 6,
+  "fields": {
+    "action_time": "2025-07-15T18:18:21.897Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "1",
+    "object_repr": "Python for Beginners",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 7,
+  "fields": {
+    "action_time": "2025-07-15T18:26:11.961Z",
+    "user": 1,
+    "content_type": 6,
+    "object_id": "10",
+    "object_repr": "instrucor",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 8,
+  "fields": {
+    "action_time": "2025-07-15T18:37:03.567Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "2",
+    "object_repr": "Introduction to Django",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 9,
+  "fields": {
+    "action_time": "2025-07-15T18:38:02.750Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "3",
+    "object_repr": "React for Beginners",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 10,
+  "fields": {
+    "action_time": "2025-07-15T18:38:59.079Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "4",
+    "object_repr": "REST APIs with Django",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 11,
+  "fields": {
+    "action_time": "2025-07-15T18:41:24.974Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "1",
+    "object_repr": "Introduction to Django - What is django",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 12,
+  "fields": {
+    "action_time": "2025-07-15T18:42:38.705Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "2",
+    "object_repr": "Introduction to Django - Model View Template in Django",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 13,
+  "fields": {
+    "action_time": "2025-07-15T18:43:41.096Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "3",
+    "object_repr": "Introduction to Django - Static Files - 1",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 14,
+  "fields": {
+    "action_time": "2025-07-15T18:44:36.262Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "4",
+    "object_repr": "React for Beginners - JSX and Components",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 15,
+  "fields": {
+    "action_time": "2025-07-15T18:45:23.950Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "5",
+    "object_repr": "React for Beginners - State and Props",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 16,
+  "fields": {
+    "action_time": "2025-07-15T18:46:33.479Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "6",
+    "object_repr": "REST APIs with Django - Django REST Intro",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 17,
+  "fields": {
+    "action_time": "2025-07-15T18:47:15.371Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "7",
+    "object_repr": "REST APIs with Django - Serializers and Views",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 18,
+  "fields": {
+    "action_time": "2025-07-15T18:48:17.255Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "1",
+    "object_repr": "amar2f -> Introduction to Django",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 19,
+  "fields": {
+    "action_time": "2025-07-15T18:48:56.598Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "2",
+    "object_repr": "amar2f -> REST APIs with Django",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "1umsine37ksqi7yhao8rdl75dwavsd53",
+  "fields": {
+    "session_data": ".eJxVjDsOwjAQBe_iGllr418o6XMGa51d4wCypTipEHeHSCmgfTPzXiLitpa4dV7iTOIilDj9bgmnB9cd0B3rrcmp1XWZk9wVedAux0b8vB7u30HBXr51YGe1UZpZD0DeO1A-J6XQQx7AsM5ImYMHC3Bmh4Ym1pAIcgqDCVa8P8zGN5o:1uaglH:uw0NZnRZJr3057dx699QCqcBKNcAtufRVxm-bctsHPo",
+    "expire_date": "2025-07-26T20:23:55.754Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "wih5oczaqiak537ctfduh4loffjlh54k",
+  "fields": {
+    "session_data": ".eJxVjDsOwjAQBe_iGllr418o6XMGa51d4wCypTipEHeHSCmgfTPzXiLitpa4dV7iTOIilDj9bgmnB9cd0B3rrcmp1XWZk9wVedAux0b8vB7u30HBXr51YGe1UZpZD0DeO1A-J6XQQx7AsM5ImYMHC3Bmh4Ym1pAIcgqDCVa8P8zGN5o:1uZGYx:JIKy8mtj0AWKTVtFoTrcoX9tIraoLtxS2DfeMeYHsBE",
+    "expire_date": "2025-07-22T22:13:19.239Z"
+  }
+},
+{
+  "model": "app.user",
+  "pk": 1,
+  "fields": {
+    "password": "pbkdf2_sha256$1000000$f4cNN8vFAMf2z722MjMfoS$hNNsH8KBsJeATfd/dE8nE/h+UH7qkVwa2f25ADw4r0E=",
+    "last_login": "2025-07-12T20:23:55.746Z",
+    "is_superuser": true,
+    "username": "amar",
+    "first_name": "",
+    "last_name": "",
+    "email": "",
+    "is_staff": true,
+    "is_active": true,
+    "date_joined": "2025-07-08T22:12:52Z",
+    "role": "student",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "app.user",
+  "pk": 2,
+  "fields": {
+    "password": "pbkdf2_sha256$1000000$kE67dAMwrly8x9EqFDjekx$tqV5B7Y1nz/pl+rLTlqqXqEI4mVw3beg1Ao+XDrlS3I=",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "amar2f",
+    "first_name": "",
+    "last_name": "",
+    "email": "amaranceur2@gmail.com",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2025-07-08T22:22:39Z",
+    "role": "student",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "app.user",
+  "pk": 3,
+  "fields": {
+    "password": "pbkdf2_sha256$1000000$tTzzQz48Oq18ielNA020dy$E8my88QTZfTrK3i/mMpZ1iCogCHZSvFlelFR5r86YQo=",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "alak",
+    "first_name": "",
+    "last_name": "",
+    "email": "amaranceur2@gmail.com",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2025-07-08T23:26:25.878Z",
+    "role": "",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "app.user",
+  "pk": 4,
+  "fields": {
+    "password": "amaranceur2004",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "testuser123",
+    "first_name": "",
+    "last_name": "",
+    "email": "testuser123@example.com",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2025-07-11T16:37:33Z",
+    "role": "student",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "app.user",
+  "pk": 5,
+  "fields": {
+    "password": "pbkdf2_sha256$1000000$esFO88rFZzfkkOEYlvqBEs$MSWWNRJ9oqHjDcdxKo3MNxjnNYMaU/fqMQPZAwiWGtY=",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "amar94",
+    "first_name": "",
+    "last_name": "",
+    "email": "jjh@gg.ff",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2025-07-11T16:38:08.924Z",
+    "role": "student",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "app.user",
+  "pk": 6,
+  "fields": {
+    "password": "pbkdf2_sha256$1000000$eQ1agK0VYZHFnvmIxxZlfn$1Ax3oQ+THLN//10G5zmCNZLPspLaBZavo+ZNZwONkBM=",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "amaranceur2",
+    "first_name": "",
+    "last_name": "",
+    "email": "amar@gmail.com",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2025-07-12T15:03:12.003Z",
+    "role": "student",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "app.user",
+  "pk": 7,
+  "fields": {
+    "password": "pbkdf2_sha256$1000000$nv1OaRyxJSukyzHMzbKTc6$+jBKn0RSbvLdxSOOCpMVHSWsUgA6OXH2WGONTA9fQuY=",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "amar2gdg",
+    "first_name": "",
+    "last_name": "",
+    "email": "amaranceur2@gmail.com",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2025-07-12T15:04:46.472Z",
+    "role": "student",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "app.user",
+  "pk": 8,
+  "fields": {
+    "password": "pbkdf2_sha256$1000000$Mdo9R9XYLhvhWSoPZuwOIy$qLAK1kpxUpb6DUx+3XXoiDN1NlLsupH/zc9dKz3HspA=",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "samah",
+    "first_name": "",
+    "last_name": "",
+    "email": "samah@gmail.com",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2025-07-12T20:27:24.236Z",
+    "role": "student",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "app.user",
+  "pk": 9,
+  "fields": {
+    "password": "pbkdf2_sha256$1000000$9fcbchsTgjyMrsXAWLEZSZ$2H2O2sWvfGCs7l/fCoN1xgGC81KxD8giYsAMw5hDBlw=",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "amar2",
+    "first_name": "",
+    "last_name": "",
+    "email": "amar@gmail.com",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2025-07-14T18:36:33.548Z",
+    "role": "student",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "app.user",
+  "pk": 10,
+  "fields": {
+    "password": "amaranceur2004",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "instrucor",
+    "first_name": "",
+    "last_name": "",
+    "email": "Johndoe@gmail.com",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2025-07-15T18:25:32Z",
+    "role": "instructor",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "app.user",
+  "pk": 11,
+  "fields": {
+    "password": "pbkdf2_sha256$1000000$qAAD2ZZ8UnryA1e7QpHpEb$iobYR7utVa9KH7abH83Cj0qDiYX17dhZdFsYBjc3+N0=",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "jdoe",
+    "first_name": "John",
+    "last_name": "Doe",
+    "email": "john.doe@example.com",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2025-07-15T18:30:20.285Z",
+    "role": "instructor",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "app.user",
+  "pk": 12,
+  "fields": {
+    "password": "pbkdf2_sha256$1000000$ScbrCiE27p7MMlLGjHUdKt$25IIxFniqnoA+FmkqPBJ2rpTljL3k1J2pfDfnPc7qI0=",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "asmith",
+    "first_name": "Alice",
+    "last_name": "Smith",
+    "email": "alice.smith@example.com",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2025-07-15T18:30:21.853Z",
+    "role": "instructor",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "app.user",
+  "pk": 13,
+  "fields": {
+    "password": "pbkdf2_sha256$1000000$f6zuZFpR6s1WZj1D3PuYCM$KuA8bF9ykI+i0gMdzINuhpPp0Y3dlzksralYpzdUAyU=",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "bwilson",
+    "first_name": "Bob",
+    "last_name": "Wilson",
+    "email": "bob.wilson@example.com",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2025-07-15T18:30:23.324Z",
+    "role": "instructor",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "app.user",
+  "pk": 14,
+  "fields": {
+    "password": "pbkdf2_sha256$1000000$Z58nKYA6nR0nmjW1iq8IBi$cpjTeP1iwAgYABnx6RgQvgy53z2ucGHDQXleA2Bh84M=",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "cjohnson",
+    "first_name": "Carol",
+    "last_name": "Johnson",
+    "email": "carol.johnson@example.com",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2025-07-15T18:30:24.742Z",
+    "role": "instructor",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "app.user",
+  "pk": 15,
+  "fields": {
+    "password": "pbkdf2_sha256$1000000$R66R7lpuqttFV8S8HJBeDg$EXITeAoiEzHMMBvu8CEe0VknrPgOkRs8iIHJyek7USU=",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "dlee",
+    "first_name": "David",
+    "last_name": "Lee",
+    "email": "david.lee@example.com",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2025-07-15T18:30:26.114Z",
+    "role": "instructor",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "app.user",
+  "pk": 16,
+  "fields": {
+    "password": "pbkdf2_sha256$1000000$fE4DpgdDIDViZ1C04ENMME$EB7BBCcm3ggQFKzmi4PaPnN+OykO/gbscS2WXG7HaQg=",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "emartin",
+    "first_name": "Emma",
+    "last_name": "Martin",
+    "email": "emma.martin@example.com",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2025-07-15T18:30:27.479Z",
+    "role": "instructor",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "app.user",
+  "pk": 17,
+  "fields": {
+    "password": "pbkdf2_sha256$1000000$uvxcMcDzEitWc57oXLujB0$VMhxr5zO02nMLP5NkKn0W3S5deoZfns7UM3uuqw2n7Y=",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "fgarcia",
+    "first_name": "Frank",
+    "last_name": "Garcia",
+    "email": "frank.garcia@example.com",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2025-07-15T18:30:28.889Z",
+    "role": "instructor",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "app.user",
+  "pk": 18,
+  "fields": {
+    "password": "pbkdf2_sha256$1000000$ZOr2K3TN5RenIIOtNz3YSx$SIqKCLgKljvcnw17a5Z6R1HZQE6dBreykv9VVohFjXM=",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "hclark",
+    "first_name": "Helen",
+    "last_name": "Clark",
+    "email": "helen.clark@example.com",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2025-07-15T18:30:30.428Z",
+    "role": "instructor",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "app.user",
+  "pk": 19,
+  "fields": {
+    "password": "pbkdf2_sha256$1000000$kBfgeFwr16nE8CSJgSsFeg$/DlN2+3OJOhsTcFcXI4qv94p1dH5zb7xQPVv66xxaYg=",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "imorris",
+    "first_name": "Ian",
+    "last_name": "Morris",
+    "email": "ian.morris@example.com",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2025-07-15T18:30:31.736Z",
+    "role": "instructor",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "app.user",
+  "pk": 20,
+  "fields": {
+    "password": "pbkdf2_sha256$1000000$4D6m4DReAp5B1D3ywdF5Ud$B/KKHIoBq91/MtJ1VIzRQjFoEBqugtuj9nTyAcLEXCk=",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "jyoung",
+    "first_name": "Julia",
+    "last_name": "Young",
+    "email": "julia.young@example.com",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2025-07-15T18:30:33.056Z",
+    "role": "instructor",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "app.profile",
+  "pk": 1,
+  "fields": {
+    "user": 1,
+    "profile_picture": "profiles/pngtree-man-avatar-image-for-profile-png-image_13001882.png",
+    "member_since": "2025-07-10"
+  }
+},
+{
+  "model": "app.profile",
+  "pk": 2,
+  "fields": {
+    "user": 2,
+    "profile_picture": "profiles/18639.jpg",
+    "member_since": "2025-07-10"
+  }
+},
+{
+  "model": "app.profile",
+  "pk": 3,
+  "fields": {
+    "user": 6,
+    "profile_picture": "profiles/default.jpg",
+    "member_since": "2025-07-12"
+  }
+},
+{
+  "model": "app.profile",
+  "pk": 4,
+  "fields": {
+    "user": 7,
+    "profile_picture": "profiles/default.jpg",
+    "member_since": "2025-07-12"
+  }
+},
+{
+  "model": "app.profile",
+  "pk": 5,
+  "fields": {
+    "user": 8,
+    "profile_picture": "profiles/default.jpg",
+    "member_since": "2025-07-12"
+  }
+},
+{
+  "model": "app.profile",
+  "pk": 6,
+  "fields": {
+    "user": 9,
+    "profile_picture": "profiles/default.jpg",
+    "member_since": "2025-07-14"
+  }
+},
+{
+  "model": "app.profile",
+  "pk": 7,
+  "fields": {
+    "user": 11,
+    "profile_picture": "profiles/default.jpg",
+    "member_since": "2025-07-15"
+  }
+},
+{
+  "model": "app.profile",
+  "pk": 8,
+  "fields": {
+    "user": 12,
+    "profile_picture": "profiles/default.jpg",
+    "member_since": "2025-07-15"
+  }
+},
+{
+  "model": "app.profile",
+  "pk": 9,
+  "fields": {
+    "user": 13,
+    "profile_picture": "profiles/default.jpg",
+    "member_since": "2025-07-15"
+  }
+},
+{
+  "model": "app.profile",
+  "pk": 10,
+  "fields": {
+    "user": 14,
+    "profile_picture": "profiles/default.jpg",
+    "member_since": "2025-07-15"
+  }
+},
+{
+  "model": "app.profile",
+  "pk": 11,
+  "fields": {
+    "user": 15,
+    "profile_picture": "profiles/default.jpg",
+    "member_since": "2025-07-15"
+  }
+},
+{
+  "model": "app.profile",
+  "pk": 12,
+  "fields": {
+    "user": 16,
+    "profile_picture": "profiles/default.jpg",
+    "member_since": "2025-07-15"
+  }
+},
+{
+  "model": "app.profile",
+  "pk": 13,
+  "fields": {
+    "user": 17,
+    "profile_picture": "profiles/default.jpg",
+    "member_since": "2025-07-15"
+  }
+},
+{
+  "model": "app.profile",
+  "pk": 14,
+  "fields": {
+    "user": 18,
+    "profile_picture": "profiles/default.jpg",
+    "member_since": "2025-07-15"
+  }
+},
+{
+  "model": "app.profile",
+  "pk": 15,
+  "fields": {
+    "user": 19,
+    "profile_picture": "profiles/default.jpg",
+    "member_since": "2025-07-15"
+  }
+},
+{
+  "model": "app.profile",
+  "pk": 16,
+  "fields": {
+    "user": 20,
+    "profile_picture": "profiles/default.jpg",
+    "member_since": "2025-07-15"
+  }
+},
+{
+  "model": "app.course",
+  "pk": 1,
+  "fields": {
+    "title": "Python for Beginners",
+    "description": "A comprehensive introduction to Python programming.",
+    "instructor": 2,
+    "category": "Programming",
+    "image": "course_images/2314160_8d61_6.jpg",
+    "price": "50.00",
+    "created_at": "2025-07-15T18:18:21.893Z"
+  }
+},
+{
+  "model": "app.course",
+  "pk": 2,
+  "fields": {
+    "title": "Introduction to Django",
+    "description": "Learn Django from scratch, including models and views",
+    "instructor": 11,
+    "category": "Web Development",
+    "image": "course_images/Untitled.jpg",
+    "price": "0.00",
+    "created_at": "2025-07-15T18:37:03.565Z"
+  }
+},
+{
+  "model": "app.course",
+  "pk": 3,
+  "fields": {
+    "title": "React for Beginners",
+    "description": "Understand the basics of React and component architecture",
+    "instructor": 14,
+    "category": "Frontend",
+    "image": "course_images/0_vc4LVhHM3tH-2Sfh.jpg",
+    "price": "19.99",
+    "created_at": "2025-07-15T18:38:02.748Z"
+  }
+},
+{
+  "model": "app.course",
+  "pk": 4,
+  "fields": {
+    "title": "REST APIs with Django",
+    "description": "Build robust REST APIs using Django REST Framework.",
+    "instructor": 20,
+    "category": "Backend",
+    "image": "course_images/3253648_a320_6.webp",
+    "price": "29.99",
+    "created_at": "2025-07-15T18:38:59.077Z"
+  }
+},
+{
+  "model": "app.lesson",
+  "pk": 1,
+  "fields": {
+    "course": 2,
+    "title": "What is django",
+    "content": "In this lecture we are discussing:\r\n#1 What is framework ?\r\n#2 what is different framework in differnt languages ?\r\n#3 What is django ?\r\n#4 Why we choose django ?\r\n#5 What is MVC ?\r\n#6 What is MVT ?",
+    "video_url": "https://www.youtube.com/watch?v=SIyxjRJ8VNY&list=PLsyeobzWxl7r2ukVgTqIQcl-1T0C2mzau",
+    "order": 1
+  }
+},
+{
+  "model": "app.lesson",
+  "pk": 2,
+  "fields": {
+    "course": 2,
+    "title": "Model View Template in Django",
+    "content": "Django is a high-level Python-based free and open-source web framework, which follows the model-view-template (MVT) architectural pattern.",
+    "video_url": "https://www.youtube.com/watch?v=GGkFg52Ot5o&list=PLsyeobzWxl7r2ukVgTqIQcl-1T0C2mzau&index=9",
+    "order": 2
+  }
+},
+{
+  "model": "app.lesson",
+  "pk": 3,
+  "fields": {
+    "course": 2,
+    "title": "Static Files - 1",
+    "content": "In this leason we gonna learn the static files in django",
+    "video_url": "https://www.youtube.com/watch?v=K8Uem148uOU&list=PLsyeobzWxl7r2ukVgTqIQcl-1T0C2mzau&index=11",
+    "order": 3
+  }
+},
+{
+  "model": "app.lesson",
+  "pk": 4,
+  "fields": {
+    "course": 3,
+    "title": "JSX and Components",
+    "content": "React components and JSX syntax.",
+    "video_url": "https://www.youtube.com/watch?v=7fPXI_MnBOY&t=3s",
+    "order": 1
+  }
+},
+{
+  "model": "app.lesson",
+  "pk": 5,
+  "fields": {
+    "course": 3,
+    "title": "State and Props",
+    "content": "Understanding state management.",
+    "video_url": "https://www.youtube.com/watch?v=IYvD9oBCuJI",
+    "order": 2
+  }
+},
+{
+  "model": "app.lesson",
+  "pk": 6,
+  "fields": {
+    "course": 4,
+    "title": "Django REST Intro",
+    "content": "What is DRF?",
+    "video_url": "https://youtu.be/cJveiktaOSQ?feature=shared",
+    "order": 1
+  }
+},
+{
+  "model": "app.lesson",
+  "pk": 7,
+  "fields": {
+    "course": 4,
+    "title": "Serializers and Views",
+    "content": "Serializing models in DRF",
+    "video_url": "https://youtu.be/uzO2PW5jNMk?feature=shared",
+    "order": 2
+  }
+},
+{
+  "model": "app.enrollment",
+  "pk": 1,
+  "fields": {
+    "student": 2,
+    "course": 2,
+    "enrolled_at": "2025-07-15T18:48:17.254Z",
+    "completed": true,
+    "is_paid": true,
+    "amount_paid": "0.00",
+    "payment_method": "free",
+    "transaction_id": null,
+    "paid_at": null
+  }
+},
+{
+  "model": "app.enrollment",
+  "pk": 2,
+  "fields": {
+    "student": 2,
+    "course": 4,
+    "enrolled_at": "2025-07-15T18:48:56.596Z",
+    "completed": false,
+    "is_paid": true,
+    "amount_paid": "19.99",
+    "payment_method": "paypal",
+    "transaction_id": "tx1001",
+    "paid_at": null
+  }
+}
+]

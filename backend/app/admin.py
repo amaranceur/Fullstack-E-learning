@@ -1,6 +1,5 @@
 from django.contrib import admin
-from .models import User,Profile,Course,Lesson,LessonProgress,Enrollment,Certificate,Comment,CourseDetails,Activity
-from .models import InstructorProfile
+from .models import *
 
 # Register your models here.
 class CourseAdmin(admin.ModelAdmin):
@@ -20,3 +19,5 @@ admin.site.register(Certificate)
 admin.site.register(CourseDetails)
 admin.site.register(Activity)
 admin.site.register(InstructorProfile)
+admin.site.register(InstructorPayout)
+admin.site.register(InstructorEarning)
